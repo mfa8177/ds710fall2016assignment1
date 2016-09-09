@@ -1,8 +1,29 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+
 1. What is your name?
+
+Andrew Fuchs
+
 2. Why are you interested in Data Science?
+
+I initially started out as more of a heads-down programmer, and did a lot of detailed programming work during my first 15 or so years.  During the past few years, however, I've been moving in the BI and analytics direction.  My projects and assignments are becoming more of a mix of IT and Business, and I've been working more closely with the business analysts to help them understand the data.  The UW Data Science program is natural next step.  We have a lot of analysts who work with SAS, with a little bit of R, and there's some discussion at work on data scientist and analyst positions.  I'm really hoping to get involved in that type of work more, and am looking forward to learning all about data science!
+
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+
+I was a computer science major at UW-Madison.  Back then, programming was mostly in C with some Pascal.  On the job, I've done programming with Visual Basic as well as VB.NET, and quite a bit of Smalltalk for several years back in the early 1990's and early 2000's.  During the last 5 - 10 years, any programming at work has been focused in SQL Server and SSIS.  I've been moving more into the BI and Analytics space during the last several years, and have also been involved in an IT architect role.
+
+4. Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+
+I had an intro stats course at UW-Madison, but do not have much statistics experience beyond that on the job.  I've started picking up a little statistics during my first two courses of the data science program (DS700 and DS715).
+  
+5. Do you have other experience with R or Python?
+  
+I've had a little experience with R on the job, but none yet with Python.  We're building a data warehouse on the Microsoft Azure platform using HDInsight, and I've been working with the business analysts who are experimenting with R when I can find the time to do so.
+  
+6. What do you hope to learn in this class?
+
+I'm hoping to get a good foundation in both R and Python to build upon.  As we look to move more analytics at work into R and Python, this will put me in a good position for projects and opportunities at work.
+  
+7. Is there anything else you would like to share with us?
+
+I'm taking DS730 (Big Data) concurrently with this class.  Since we're setting up HDInsight (Hadoop) in Azure, that class is also a timely fit along with learning R and Python, which will the two languages we'll be using on Azure.
